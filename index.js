@@ -91,4 +91,4 @@ function game() {
     alert("Refresh to play again");    
 }
 
-(game());
+game();
